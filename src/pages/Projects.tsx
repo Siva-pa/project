@@ -8,7 +8,7 @@ export default function Projects() {
         'Developed a fully automated scraping pipeline that extracted over 5,000 car listings with 99% accuracy. Reduced manual data-collection efforts by 95% with strong error handling and performance optimizations.',
       technologies: ['Python', 'Beautiful Soup', 'Pandas'],
       highlights: [
-        '5,000+ car listings extracted',
+        '1,000+ car listings extracted',
         '99% data accuracy',
         '95% reduction in manual effort',
       ],
