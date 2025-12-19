@@ -5,8 +5,8 @@ export default function Projects() {
     {
       title: 'Web Scraping - Acko Drive Platform',
       description:
-        'Developed a fully automated scraping pipeline that extracted over 5,000 car listings with 99% accuracy. Reduced manual data-collection efforts by 95% with strong error handling and performance optimizations.',
-      technologies: ['Python', 'Beautiful Soup', 'Pandas'],
+        'Developed a fully automated scraping pipeline that extracted over 1,000 car listings with 99% accuracy. Reduced manual data-collection efforts by 95% with strong error handling and performance optimizations.',
+      technologies: ['Python', 'Beautiful Soup', 'Pandas', 'Numpy','Matplotlib', 'Seaborn'],
       highlights: [
         '1,000+ car listings extracted',
         '99% data accuracy',
