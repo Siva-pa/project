@@ -15,6 +15,19 @@ export default function Projects() {
       icon: Code2,
     },
     {
+      title: 'AI-Powered Resume to Portfolio Website Generator',
+      description:
+        'Designed and implemented an AI-driven application that automates the conversion of resumes into professional portfolio websites, leveraging Google Gemini through LangChain to generate structured HTML, CSS, and JavaScript with live preview and downloadable output',
+      technologies: ['Python', 'Streamlit', 'HTML',  'CSS', 'JavaScript using Google Gemini and LangChain'],
+      highlights: [
+        'Automated resume parsing (PDF/DOCX)',
+        'AI-driven website generation',
+        'Live preview and deployment-ready output',
+        'Clean, professional UI design',
+      ],
+      icon: Code2,
+    },
+    {
       title: 'Registration Page',
       description:
         'Built a user-friendly registration interface with seamless front-end experience and secure backend logic, demonstrating full-stack development capabilities.',
